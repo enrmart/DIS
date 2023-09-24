@@ -1,2 +1,2 @@
-# DIS
-Practicas relacionadas con la asignatura Diseño Software(DIS). Curso 2022-2023
+# DIS (Diseño Software)
+Practicas relacionadas con la asignatura Diseño Software (DIS). 2 cuatrimestre, 3er curso
